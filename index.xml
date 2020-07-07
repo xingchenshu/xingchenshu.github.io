@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://xingchenshu.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jul 2020 18:27:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://xingchenshu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>blog</title>
+      <link>https://xingchenshu.github.io/post/blog/</link>
+      <pubDate>Tue, 07 Jul 2020 18:27:25 +0800</pubDate>
+      
+      <guid>https://xingchenshu.github.io/post/blog/</guid>
+      <description> 这是本人第一次写博客，很兴奋。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
